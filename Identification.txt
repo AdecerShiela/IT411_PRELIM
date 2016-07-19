@@ -1,0 +1,30 @@
+I.
+a.) Explain in your own words the term "single-threaded"
+In my own understanding about single-threaded is that it is a single  process  task or a command in one at a time. 
+You cannot do multitasking. It means that in every task or action that you undergo there's a corresponding approach one at a time only.
+This command has an opposite called multi-threaded.
+
+
+b.) In your own words, what is "event driven architecture"
+As what I have understand about event driven architcture is that it consist of event creators and event consumers. 
+The creators is the source that has the power to only know what is being occured,
+while the consumer are the entities that necessarily need to know what is being ocured in the source and they are possibly be affected.
+
+
+c.) What are the benefits of a javascript module
+-It promotes less untidy codes and it is a self contained code. 
+- it provides structure and helps organize your code as it grows.
+-JavaScript doesn’t have special syntax for packages, but the module pattern provides the tools to create self-contained decoupled pieces of code, which can be treated as black boxes of functionality and added, replaced, or removed according to the (ever-changing) requirements of the software you’re writing.
+
+
+
+d.) Give two implementations of javascript module
+-asynchronous
+-synchronous
+
+
+
+
+e.) In you own words, what is a module bundler.
+module bundler is simply the process of stitching together a group of modules (and their dependencies) into a single file (or group of files) in the correct order.
+
